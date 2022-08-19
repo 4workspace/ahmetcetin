@@ -1,1 +1,2 @@
-Hi, I'm Ahmet Çetin
+Hi, I'm Ahmet Çetin, from Ankara, Turkey.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetcetin&show_icons=true)
